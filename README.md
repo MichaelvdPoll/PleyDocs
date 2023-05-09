@@ -9,6 +9,7 @@ Click here to learn how!"
 "Game Released! Congrats, your game is now running on Pley! You can play the game through either the Pley link or the embedding, both of which you can find on the Game Manager releases page!
 Click here to learn how!"
 
+---
 
 ## Game Settings
 
@@ -16,6 +17,7 @@ Click here to learn how!"
 
 Here you'll add the images, links, & text your players will see on Pley!
 
+---
 
 ## Visual Assets
 
@@ -39,6 +41,7 @@ Here you'll add the images, links, & text your players will see on Pley!
 [Overview | Integration](https://docs.pley.com/docs/overview-capabilities) hyperlink links to an empty page
 It should link to [https://docs.pley.com/docs/overview-integration]
 
+---
 
 ## Overview | Integration
 
@@ -47,6 +50,7 @@ It should link to [https://docs.pley.com/docs/overview-integration]
     <figcaption>Contains Trail in the screenshot</figcaption>
 </figure>
 
+---
 
 ## Authkit
 
@@ -54,6 +58,7 @@ It should link to [https://docs.pley.com/docs/overview-integration]
     <img src="https://files.readme.io/272ae49-AuthKit.png" width="400" height="200">
     <figcaption>Contains Trail SDK in the screenshot</figcaption>
 </figure>
+
 
 Incorrect namespace references in the code snippet: 
 ```cs
@@ -73,5 +78,6 @@ private void SendTokenToBackend()
 }
 ```
 
-Will the HTTP API move domain, as its currently on *beta.trail.gg*? if so, the cURL code snippet will also need to change 
+Will the HTTP API move domain, as its currently on *beta.trail.gg*? if so, the cURL code snippet will also need to change to reflect the correct destination
 
+---
